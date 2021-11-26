@@ -1,0 +1,15 @@
+D:\Бурса\Криптографія Христофор\Lab2\bin\Debug\net6.0\Lab2.exe
+D:\Бурса\Криптографія Христофор\Lab2\bin\Debug\net6.0\Lab2.deps.json
+D:\Бурса\Криптографія Христофор\Lab2\bin\Debug\net6.0\Lab2.runtimeconfig.json
+D:\Бурса\Криптографія Христофор\Lab2\bin\Debug\net6.0\Lab2.dll
+D:\Бурса\Криптографія Христофор\Lab2\bin\Debug\net6.0\ref\Lab2.dll
+D:\Бурса\Криптографія Христофор\Lab2\bin\Debug\net6.0\Lab2.pdb
+D:\Бурса\Криптографія Христофор\Lab2\obj\Debug\net6.0\Lab2.csproj.AssemblyReference.cache
+D:\Бурса\Криптографія Христофор\Lab2\obj\Debug\net6.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Бурса\Криптографія Христофор\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfoInputs.cache
+D:\Бурса\Криптографія Христофор\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfo.cs
+D:\Бурса\Криптографія Христофор\Lab2\obj\Debug\net6.0\Lab2.csproj.CoreCompileInputs.cache
+D:\Бурса\Криптографія Христофор\Lab2\obj\Debug\net6.0\Lab2.dll
+D:\Бурса\Криптографія Христофор\Lab2\obj\Debug\net6.0\ref\Lab2.dll
+D:\Бурса\Криптографія Христофор\Lab2\obj\Debug\net6.0\Lab2.pdb
+D:\Бурса\Криптографія Христофор\Lab2\obj\Debug\net6.0\Lab2.genruntimeconfig.cache
